@@ -1,0 +1,300 @@
+Received: from DM5PR0101MB2988.prod.exchangelabs.com (2603:10b6:910:89::47) by
+ CY4PR0101MB2984.prod.exchangelabs.com with HTTPS via
+ CY4PR0601CA0070.NAMPRD06.PROD.OUTLOOK.COM; Fri, 26 Apr 2019 18:59:58 +0000
+Received: from BL0PR0102CA0038.prod.exchangelabs.com (2603:10b6:208:25::15) by
+ DM5PR0101MB2988.prod.exchangelabs.com (2603:10b6:4:2f::10) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.1835.13; Fri, 26 Apr 2019 18:59:56 +0000
+Received: from BY2NAM05FT049.eop-nam05.prod.protection.outlook.com
+ (2a01:111:f400:7e52::206) by BL0PR0102CA0038.outlook.office365.com
+ (2603:10b6:208:25::15) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.1835.12 via Frontend
+ Transport; Fri, 26 Apr 2019 18:59:56 +0000
+Authentication-Results: spf=pass (sender IP is 40.107.78.104)
+ smtp.mailfrom=buchanan.rocks; live.missouristate.edu; dkim=pass (signature
+ was verified) header.d=buchananrocks.onmicrosoft.com;live.missouristate.edu;
+ dmarc=bestguesspass action=none header.from=buchanan.rocks;compauth=pass
+ reason=109
+Received-SPF: Pass (protection.outlook.com: domain of buchanan.rocks
+ designates 40.107.78.104 as permitted sender)
+ receiver=protection.outlook.com; client-ip=40.107.78.104;
+ helo=NAM03-BY2-obe.outbound.protection.outlook.com;
+Received: from NAM03-BY2-obe.outbound.protection.outlook.com (40.107.78.104)
+ by BY2NAM05FT049.mail.protection.outlook.com (10.152.100.186) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.20.1856.4 via Frontend Transport; Fri, 26 Apr 2019 18:59:55 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=buchananrocks.onmicrosoft.com; s=selector1-buchanan-rocks;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=QaCGOW2tF+zejPM8T+VyWiFgy2OAZoPW0E2TICWhh+g=;
+ b=FZ79G3X506GeALB2r3GmzDzPikY3CCUc6x+evLVBlHE9OzNB5/YsGazzGS5z+bAnBF2HJFtZbqTkKBmjYhWYGa4il7x63EVYit0PEpuwnTNQpDVgySdWM4ARPFRNbV2MMmFhSJduTvVkwjx/O7VHELAagyCKOR0WtAle9k812Jg=
+Received: from SN6PR01MB4191.prod.exchangelabs.com (52.135.121.97) by
+ SN6PR01MB5261.prod.exchangelabs.com (52.135.127.97) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.1835.13; Fri, 26 Apr 2019 18:59:55 +0000
+Received: from SN6PR01MB4191.prod.exchangelabs.com
+ ([fe80::2072:b1b6:6f48:9ef4]) by SN6PR01MB4191.prod.exchangelabs.com
+ ([fe80::2072:b1b6:6f48:9ef4%2]) with mapi id 15.20.1813.017; Fri, 26 Apr 2019
+ 18:59:55 +0000
+From: Scott Buchanan <scott@buchanan.rocks>
+To: "Addie623@live.missouristate.edu" <Addie623@live.missouristate.edu>
+Subject: OSPAN P10
+Thread-Topic: OSPAN P10
+Thread-Index: AQHU/GI8ES1vMRtvAU2gIRxCPX+BSA==
+Date: Fri, 26 Apr 2019 18:59:54 +0000
+Message-ID: <Of17Zl2234p9XHzdavthP2qrQN3XW3xF7b9M8Dgp0@erin.scott.lol>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-clientproxiedby: SN4PR0201CA0042.namprd02.prod.outlook.com
+ (2603:10b6:803:2e::28) To SN6PR01MB4191.prod.exchangelabs.com
+ (2603:10b6:805:ad::33)
+Authentication-Results-Original: spf=none (sender IP is )
+ smtp.mailfrom=scott@buchanan.rocks; 
+x-ms-exchange-messagesentrepresentingtype: 1
+x-mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+x-originating-ip: [208.180.47.68]
+x-ms-publictraffictype: Email
+X-MS-Office365-Filtering-Correlation-Id: 5ecfed3a-069e-43d9-9976-08d6ca795f72
+X-Microsoft-Antispam-Untrusted:
+ BCL:0;PCL:0;RULEID:(2390118)(7020095)(4652040)(7021145)(8989299)(4534185)(7022145)(4603075)(4627221)(201702281549075)(8990200)(7048125)(7024125)(7027125)(7023125)(5600141)(711020)(4605104)(2017052603328)(7193020);SRVR:SN6PR01MB5261;
+X-MS-TrafficTypeDiagnostic: SN6PR01MB5261:|DM5PR0101MB2988:
+x-microsoft-antispam-prvs: <SN6PR01MB52618BD9BA5B102EE46D637BD13E0@SN6PR01MB5261.prod.exchangelabs.com>
+x-forefront-prvs: 001968DD50
+X-Forefront-Antispam-Report-Untrusted:
+ SFV:NSPM;SFS:(10019020)(396003)(376002)(366004)(136003)(39830400003)(346002)(199004)(189003)(52116002)(6506007)(508600001)(66946007)(14454004)(73956011)(3846002)(6116002)(102836004)(54206008)(86362001)(97736004)(5566004)(1361003)(39280500002)(186003)(64756008)(66556008)(71190400001)(53936002)(386003)(99286004)(89996002)(256004)(66066001)(66476007)(316002)(66446008)(9686003)(476003)(5660300002)(6486002)(6916009)(6436002)(5640700003)(2906002)(8676002)(68736007)(2501003)(71200400001)(54896002)(6512007)(26005)(2171002)(23466002)(7736002)(2351001)(8936002)(305945005)(50226002)(25786009)(486006)(81166006)(7116003)(81156014)(46492003)(2870100008);DIR:OUT;SFP:1102;SCL:1;SRVR:SN6PR01MB5261;H:SN6PR01MB4191.prod.exchangelabs.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;A:0;MX:1;
+received-spf: None (protection.outlook.com: buchanan.rocks does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+X-Microsoft-Antispam-Message-Info-Original:
+ 1YmQIddTNuNzlebmBBnT5v2pT+iZ4Cu3FC8ABVwz1gL0n9/Z9hod8M2JM0tptmPRO1k348NmKpzz+DB81aB80GE/Vfh94g2NC7dkerU6avTNSpPxkxrJzHKrtQq7KbjZ5XgZ/HGbwDg2TQ6F1vjAaIT0hnh6r6b6c1yHLPgCjmscCDB5Lyzmy2zprOyVVaFBOWViFIsg2jUd6iL2ffk8MDJN+xb+L7H6aQWcbzF48t7IcxHUxaLWrwGAwGus06JW0Lf/+9mSX6I9MDp6CuTqaucNvFwMSS5oqOEqxhiUSSqQoeszu5inv2Qk4LNyyCaxuMaGHJGJQv0zFim7462JXAui6MQMGMsFmUTBrUTQZLX6ywxiqNWXN08wUkWDgWVSwgaJJS77i3zivIOmSKqdTf6LlcM/dCgQR8YLPdsSbEM=
+MIME-Version: 1.0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN6PR01MB5261
+Return-Path: scott@buchanan.rocks
+X-MS-Exchange-Organization-ExpirationStartTime: 26 Apr 2019 18:59:56.0703
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 2:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 5ecfed3a-069e-43d9-9976-08d6ca795f72
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: cad830e4-554f-4361-bae5-c865233fb77f:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Transport-CrossTenantHeadersStripped:
+ BY2NAM05FT049.eop-nam05.prod.protection.outlook.com
+X-MS-Exchange-Transport-CrossTenantHeadersPromoted:
+ BY2NAM05FT049.eop-nam05.prod.protection.outlook.com
+X-Forefront-Antispam-Report:
+ CIP:40.107.78.104;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(2980300002)(199004)(189003)(2351001)(8676002)(1096003)(16586007)(39280500002)(34756004)(66066001)(106002)(5566004)(1361003)(246002)(99286004)(22756006)(50226002)(2171002)(6116002)(3846002)(23466002)(336012)(25786009)(386003)(102836004)(6506007)(36906005)(6512007)(9686003)(486006)(54896002)(8636004)(16003)(476003)(126002)(26005)(6916009)(30864003)(620700002)(6436002)(7736002)(2501003)(6486002)(86362001)(54206008)(14454004)(7116003)(89996002)(5660300002)(71190400001)(84326002)(356004)(2160300002)(5640700003)(7636002)(46492003)(2870100008);DIR:INB;SFP:;SCL:1;SRVR:DM5PR0101MB2988;H:NAM03-BY2-obe.outbound.protection.outlook.com;FPR:;SPF:Pass;LANG:en;PTR:mail-eopbgr780104.outbound.protection.outlook.com;A:0;MX:1;
+X-MS-Exchange-Organization-AuthSource:
+ BY2NAM05FT049.eop-nam05.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id-Prvs:
+ b0f5736d-8b93-4ad7-b75a-08d6ca795e9f
+X-Microsoft-Antispam:
+ BCL:0;PCL:0;RULEID:(2390118)(7020095)(4652040)(5600141)(710020)(711020)(4605104)(4709054)(1401320)(8001031)(1420029)(1421009)(1422010)(1423009)(1414054)(71702078)(7193020);SRVR:DM5PR0101MB2988;
+X-MS-Exchange-Organization-SCL: 1
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 26 Apr 2019 18:59:55.9562
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 5ecfed3a-069e-43d9-9976-08d6ca795f72
+X-MS-Exchange-CrossTenant-Id: cad830e4-554f-4361-bae5-c865233fb77f
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR0101MB2988
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.3185162
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.1835.000
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:0;dest:I;ENG:(20160514016)(750119)(520011016)(944506303)(944626516);
+X-Microsoft-Antispam-Message-Info:
+	FGxa6jq14z6oi/RNxDk2bcAbA7caSvq/L4mJ1w+BTFrHWfSROl6rVrn76h4EI9WT5XXeNR65vv4aQgwKUc0w//EoTZIQHpzvkb9xBD3WQ5B2fSvfgQ8kbS01T+TDrkC8lanCRKT+nmsALlRHGQEjbr91cL82u/EXKX7T09+2jl+dvT7cqhsZaqxRu5N65spbiHlxfOLv6zIlXjOuIPRs4qjJiCOTn42ol4EO9iIqLuliCo6byHBo8O273dnppL0+FhGNkZyJ1ebW0D3TerIAdgmyn1tbuIowXujHI+h1vedSMVIOCXO4AP6KZMTkB7TV33qIZyJdIySw13GnN2hboQLHcCgVkbxDDWoRWYAaPJyXmi7vVMPEV00hxuKpa+B50K9/uWTPm0kwKLC3b6VQT3j+rEJ3++A5e1RYH8Vsw3aIr5rS+8en9WA+S4YMLo0bSvZ9/33ZVRjLEJ4KmbqaQI21dQdO/b6D+9gektNQ0JrgrlznTHw2EovqD3bUOUnvtMl/TYaJR0qudag+YVuRZ97AZeBUbKPsIw6K6hv0SAsp/wm13g1wvxeaCzd/YhNiWcb1i35a72HHjxUrfGv07QX47Y44OJcz5NPoaQa2dFh94+m6RdJue2uHqP1SRKYltQ31/UHZmntNKct5zK7KeJclH9OxcWnOEC8w+zDRSRCHbaxHQaxy/weyL9KWzmeWrDbGKyZsYwIK9EsYOmSG7Li3e6lq8zJBj+pJP9DWyXYu8zXsqYeBGVuFqQGRXvjBKig3XVj56fbbafBmGeo0ltlIiPqWsNzObPK6gJJDnzyWBePKWu6Lt5V7jCZKCpRUmG8Z3NffeapB0oazU/MYAes2S3xfIdc+swDwNlrSqp+mR6OGusy9LGbKy47TjhueOw7LQrKwNnRXZUUoFD09tw==
+Content-type: multipart/alternative;
+	boundary="B_3640163824_1086886591"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3640163824_1086886591
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+******************OVERALL DATA****************** 
+Test Date: 04/26/2019 
+Test Time: 01:00:03 
+IP Address: 146.7.81.163 
+Final math percentage: 99% 
+Total problems shown: 75 
+Total letters correct: 61 
+Average time given: 06.116 
+Average Recall Screen Time: 2.48 
+Student ID: P10 
+****************** Practice set 1 ****************** Equations: (2/1) + 2|(6*2) - 4 Shown Answers: 4|0 Correct Answers: 4|8 Student Answers: true|false Student Was Correct: correct|correct Letters Shown: S|P Students Letters: S|P Time on Problem screen: 03.927|04.287  Time on Answer Screen: 01.432|01.04 Times on Recall screen: 02.423|00.432 Session Letters Correct: 2 of 2 Session Math Percentage: 100% ****************** Practice set 2 ****************** Equations: (3*3) - 6|(2*3) - 1 Shown Answers: 3|9 Correct Answers:  3|5 Student Answers: true|false Student Was Correct: correct|correct Letters Shown: S|J Students Letters: S|J Time on Problem screen: 03.751|02.711 Time on Answer Screen: 00.912|01.176 Times on Recall screen: 02.063|00.904 Session Letters Correct: 2 of 2 Session  Math Percentage: 100% ****************** Trial 1 ****************** Equations: (4/4) + 6|(6/2) + 3|(1/1) + 2 Shown Answers: 16|1|5 Correct Answers: 7|6|3 Student Answers: false|false|false Student Was Correct: correct|correct|correct Letters Shown: J|Q|R Students  Letters: J|Q|R Time on Problem screen: 02.031|01.999|03.12 Time on Answer Screen: 01.448|01.544|01.112 Times on Recall screen: 01.816|00.648|00.623 Session Letters Correct: 3 of 3 Session Math Percentage: 100% ****************** Trial 2 ******************  Equations: (8*2) - 8|(1*8) + 2|(6/1) + 5|(2*7) + 4|(1*4) - 4 Shown Answers: 6|10|11|18|3 Correct Answers: 8|10|11|18|0 Student Answers: false|true|true|true|false Student Was Correct: correct|correct|correct|correct|correct Letters Shown: Q|N|J|H|S Students  Letters: Q|N|J|H|S Time on Problem screen: 02.432|01.83|02.496|03.544|03.032 Time on Answer Screen: 01|01.048|01.712|01.216|00.784 Times on Recall screen: 02.552|00.472|00.52|01.248|00.768 Session Letters Correct: 5 of 5 Session Math Percentage: 100% ******************  Trial 3 ****************** Equations: (9/3) + 8|(7/7) - 9|(7*2) - 4|(3/1) + 1|(8/2) + 5 Shown Answers: 11|-13|3|4|3 Correct Answers: 11|-8|10|4|9 Student Answers: true|false|false|blank|false Student Was Correct: correct|correct|correct|incorrect|correct Letters  Shown: J|S|P|L|R Students Letters: J|H|Q|P|R Time on Problem screen: 03.439|01.975|03.75|06.118|04.806 Time on Answer Screen: 00.944|00.912|00.999|00|01.008 Times on Recall screen: 02.111|00.696|01.336|00.496|00.952 Session Letters Correct: 2 of 5 Session  Math Percentage: 80% ****************** Trial 4 ****************** Equations: (7/7) - 3|(7/1) + 8|(8/2) + 3 Shown Answers: -2|23|7 Correct Answers: -2|15|7 Student Answers: true|false|true Student Was Correct: correct|correct|correct Letters Shown: N|Y|R Students  Letters: J|Y|R Time on Problem screen: 02.207|01.687|02.255 Time on Answer Screen: 01.008|01.584|01.296 Times on Recall screen: 03.566|02.576|00.904|00.384 Session Letters Correct: 2 of 3 Session Math Percentage: 100% ****************** Trial 5 ******************  Equations: (4/2) - 6|(6/6) - 9|(1*6) + 0|(4/4) - 9|(1*4) + 6|(5*2) + 7 Shown Answers: -4|-14|6|-6|12|16 Correct Answers: -4|-8|6|-8|10|17 Student Answers: true|false|true|false|false|false Student Was Correct: correct|correct|correct|correct|correct|correct  Letters Shown: R|N|T|J|Q|H Students Letters: L|Y|R|N|J|H Time on Problem screen: 02.031|01.311|02.671|04.048|05.151|02.406 Time on Answer Screen: 00.984|01.184|01.272|01.216|01.273|01.161 Times on Recall screen: 02.783|01.047|00.801|00.656|00.768|04.84|01.504|04.064|01.48|01.496|00.616|02.504|00.159|00.177|02.12|00.712|02.28|00.472|01.072|00.567  Session Letters Correct: 1 of 6 Session Math Percentage: 100% ****************** Trial 6 ****************** Equations: (2*2) - 7|(1*2) - 6|(6/6) - 1|(9/3) + 3|(4*3) - 9|(2/2) - 1 Shown Answers: -3|-12|0|6|3|0 Correct Answers: -3|-4|0|6|3|0 Student Answers:  true|false|true|true|true|true Student Was Correct: correct|correct|correct|correct|correct|correct Letters Shown: S|K|R|Q|T|F Students Letters: S|K|R|Q|T|F Time on Problem screen: 02.664|02.12|02.224|02.255|03.303|01.927 Time on Answer Screen: 01.152|01.032|03.048|01.344|00.952|00.88  Times on Recall screen: 02.959|00.56|00.912|00.92|00.328|00.712 Session Letters Correct: 6 of 6 Session Math Percentage: 100% ****************** Trial 7 ****************** Equations: (6/1) + 4|(2/2) - 6|(1*5) + 6 Shown Answers: 13|-5|4 Correct Answers: 10|-5|11  Student Answers: false|true|false Student Was Correct: correct|correct|correct Letters Shown: Q|N|T Students Letters: Q|N|T Time on Problem screen: 02.495|02.079|01.662 Time on Answer Screen: 01.344|00.864|00.848 Times on Recall screen: 02.238|00.52|01.952  Session Letters Correct: 3 of 3 Session Math Percentage: 100% ****************** Trial 8 ****************** Equations: (4/4) + 9|(2*4) + 0|(1*5) - 6|(9/9) + 0|(2/1) + 1|(2*6) + 1|(1*6) - 8 Shown Answers: 2|14|-1|9|3|13|2 Correct Answers: 10|8|-1|1|3|13|-2  Student Answers: false|false|true|false|true|true|false Student Was Correct: correct|correct|correct|correct|correct|correct|correct Letters Shown: Y|L|K|S|P|N|T Students Letters: Y|L|K|S|N|T Time on Problem screen: 03.374|01.935|03.063|01.83|02.231|01.655|02.879  Time on Answer Screen: 01.312|01.232|00.856|01.306|01.192|01.104|01.896 Times on Recall screen: 01.575|01.408|01.624|00.608|01.216|00.888 Session Letters Correct: 4 of 7 Session Math Percentage: 100% ****************** Trial 9 ****************** Equations:  (2*4) - 2|(9/3) + 8|(8/2) + 6|(4*3) - 5|(8/4) - 5 Shown Answers: 5|11|7|0|-3 Correct Answers: 6|11|10|7|-3 Student Answers: false|true|false|false|true Student Was Correct: correct|correct|correct|correct|correct Letters Shown: Q|T|F|Y|H Students Letters:  Q|T|F|Y|H Time on Problem screen: 02.087|02.935|01.351|02.06|01.319 Time on Answer Screen: 00.872|00.92|01.239|01.472|01.511 Times on Recall screen: 01.983|00.84|00.656|01.28|01.152 Session Letters Correct: 5 of 5 Session Math Percentage: 100% ******************  Trial 10 ****************** Equations: (8/2) + 1|(8/1) - 4|(1*2) - 5|(3*4) - 8|(9/3) + 6|(2*4) + 8|(9/1) - 8 Shown Answers: 3|4|-3|4|9|16|1 Correct Answers: 5|4|-3|4|9|16|1 Student Answers: false|true|true|true|true|true|true Student Was Correct: correct|correct|correct|correct|correct|correct|correct  Letters Shown: J|Q|R|F|K|S|Y Students Letters: J|Q|R|F|K|S|Y Time on Problem screen: 01.519|01.134|01.591|01.351|01.543|04.159|01.656 Time on Answer Screen: 01.056|01.064|00.88|01.024|00.872|01.4|00.976 Times on Recall screen: 02.136|00.872|00.696|00.896|00.504|00.776|00.816  Session Letters Correct: 7 of 7 Session Math Percentage: 100% ****************** Trial 11 ****************** Equations: (3/3) + 9|(1*8) - 0|(4/4) - 5|(2/1) - 1 Shown Answers: 2|5|-4|-7 Correct Answers: 10|8|-4|1 Student Answers: false|false|true|false Student  Was Correct: correct|correct|correct|correct Letters Shown: N|H|R|J Students Letters: N|H|R|J Time on Problem screen: 02.519|01.054|01.367|01.094 Time on Answer Screen: 01.888|01.384|01.368|01.08 Times on Recall screen: 02.343|00.712|01.04|00.784 Session Letters  Correct: 4 of 4 Session Math Percentage: 100% ****************** Trial 12 ****************** Equations: (2*2) + 7|(8/1) - 1|(9/1) + 5|(9/3) + 4|(8/2) - 7|(6/2) + 5 Shown Answers: 14|3|18|15|2|4 Correct Answers: 11|7|14|7|-3|8 Student Answers: false|false|false|false|false|false  Student Was Correct: correct|correct|correct|correct|correct|correct Letters Shown: S|K|Y|L|J|N Students Letters: S|K|Y|L|J|N Time on Problem screen: 01.694|01.144|00.015|02.039|02.904|04.047 Time on Answer Screen: 02.53|01.184|07.52|01.544|01.16|00.968 Times  on Recall screen: 01.944|00.583|01.025|00.936|02.096|00.528 Session Letters Correct: 6 of 6 Session Math Percentage: 100% ****************** Trial 13 ****************** Equations: (4/4) - 4|(1*6) + 9|(8*2) - 5|(3/1) + 5 Shown Answers: -9|12|11|9 Correct Answers:  -3|15|11|8 Student Answers: false|false|true|false Student Was Correct: correct|correct|correct|correct Letters Shown: T|F|K|S Students Letters: T|F|L|K|S Time on Problem screen: 03.063|01.416|01.624|01.862 Time on Answer Screen: 01.24|01.344|00.936|01.408  Times on Recall screen: 06.69|01.04|00.696|01.192|01.504 Session Letters Correct: 2 of 4 Session Math Percentage: 100% ****************** Trial 14 ****************** Equations: (9/9) + 6|(5/5) - 4|(2*5) - 3|(1*9) + 2 Shown Answers: 1|-3|7|11 Correct Answers:  7|-3|7|11 Student Answers: false|true|true|true Student Was Correct: correct|correct|correct|correct Letters Shown: Q|R|T|F Students Letters: Q|R|T|F Time on Problem screen: 01.958|01.575|01.047|01.535 Time on Answer Screen: 01.368|00.944|01.056|00.856 Times  on Recall screen: 01.519|00.704|00.688|00.712 Session Letters Correct: 4 of 4 Session Math Percentage: 100% ****************** Trial 15 ****************** Equations: (7/7) - 1|(4/4) + 2|(3*3) - 5|(6*2) + 0|(9/3) + 5|(4/1) - 2|(3/1) - 2 Shown Answers: 0|-3|8|12|0|9|8  Correct Answers: 0|3|4|12|8|2|1 Student Answers: true|false|false|true|false|false|false Student Was Correct: correct|correct|correct|correct|correct|correct|correct Letters Shown: L|K|F|S|Q|P|R Students Letters: L|K|F|S|Q|P|R Time on Problem screen: 02.919|02.071|01.39|01.231|01.374|02.27|04.287  Time on Answer Screen: 01.168|01.216|00.872|01.512|01.136|01.032|01.04 Times on Recall screen: 01.455|00.682|01.224|01.112|00.856|01.424|00.832 Session Letters Correct: 7 of 7 Session Math Percentage: 100% 
+
+--B_3640163824_1086886591
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+******************OVERALL DATA****************** <br>
+Test Date: 04/26/2019 <br>
+Test Time: 01:00:03 <br>
+IP Address: 146.7.81.163 <br>
+Final math percentage: 99% <br>
+Total problems shown: 75 <br>
+Total letters correct: 61 <br>
+Average time given: 06.116 <br>
+Average Recall Screen Time: 2.48 <br>
+Student ID: P10 <br>
+****************** Practice set 1 ****************** Equations: (2/1) &#43;=
+ 2|(6*2) - 4 Shown Answers: 4|0 Correct Answers: 4|8 Student Answers: true|f=
+alse Student Was Correct: correct|correct Letters Shown: S|P Students Letter=
+s: S|P Time on Problem screen: 03.927|04.287
+ Time on Answer Screen: 01.432|01.04 Times on Recall screen: 02.423|00.432 =
+Session Letters Correct: 2 of 2 Session Math Percentage: 100% **************=
+**** Practice set 2 ****************** Equations: (3*3) - 6|(2*3) - 1 Shown =
+Answers: 3|9 Correct Answers:
+ 3|5 Student Answers: true|false Student Was Correct: correct|correct Lette=
+rs Shown: S|J Students Letters: S|J Time on Problem screen: 03.751|02.711 Ti=
+me on Answer Screen: 00.912|01.176 Times on Recall screen: 02.063|00.904 Ses=
+sion Letters Correct: 2 of 2 Session
+ Math Percentage: 100% ****************** Trial 1 ****************** Equati=
+ons: (4/4) &#43; 6|(6/2) &#43; 3|(1/1) &#43; 2 Shown Answers: 16|1|5 Correct=
+ Answers: 7|6|3 Student Answers: false|false|false Student Was Correct: corr=
+ect|correct|correct Letters Shown: J|Q|R Students
+ Letters: J|Q|R Time on Problem screen: 02.031|01.999|03.12 Time on Answer =
+Screen: 01.448|01.544|01.112 Times on Recall screen: 01.816|00.648|00.623 Se=
+ssion Letters Correct: 3 of 3 Session Math Percentage: 100% ****************=
+** Trial 2 ******************
+ Equations: (8*2) - 8|(1*8) &#43; 2|(6/1) &#43; 5|(2*7) &#43; 4|(1*4) - 4 S=
+hown Answers: 6|10|11|18|3 Correct Answers: 8|10|11|18|0 Student Answers: fa=
+lse|true|true|true|false Student Was Correct: correct|correct|correct|correc=
+t|correct Letters Shown: Q|N|J|H|S Students
+ Letters: Q|N|J|H|S Time on Problem screen: 02.432|01.83|02.496|03.544|03.0=
+32 Time on Answer Screen: 01|01.048|01.712|01.216|00.784 Times on Recall scr=
+een: 02.552|00.472|00.52|01.248|00.768 Session Letters Correct: 5 of 5 Sessi=
+on Math Percentage: 100% ******************
+ Trial 3 ****************** Equations: (9/3) &#43; 8|(7/7) - 9|(7*2) - 4|(3=
+/1) &#43; 1|(8/2) &#43; 5 Shown Answers: 11|-13|3|4|3 Correct Answers: 11|-8=
+|10|4|9 Student Answers: true|false|false|blank|false Student Was Correct: c=
+orrect|correct|correct|incorrect|correct Letters
+ Shown: J|S|P|L|R Students Letters: J|H|Q|P|R Time on Problem screen: 03.43=
+9|01.975|03.75|06.118|04.806 Time on Answer Screen: 00.944|00.912|00.999|00|=
+01.008 Times on Recall screen: 02.111|00.696|01.336|00.496|00.952 Session Le=
+tters Correct: 2 of 5 Session
+ Math Percentage: 80% ****************** Trial 4 ****************** Equatio=
+ns: (7/7) - 3|(7/1) &#43; 8|(8/2) &#43; 3 Shown Answers: -2|23|7 Correct Ans=
+wers: -2|15|7 Student Answers: true|false|true Student Was Correct: correct|=
+correct|correct Letters Shown: N|Y|R Students
+ Letters: J|Y|R Time on Problem screen: 02.207|01.687|02.255 Time on Answer=
+ Screen: 01.008|01.584|01.296 Times on Recall screen: 03.566|02.576|00.904|0=
+0.384 Session Letters Correct: 2 of 3 Session Math Percentage: 100% ********=
+********** Trial 5 ******************
+ Equations: (4/2) - 6|(6/6) - 9|(1*6) &#43; 0|(4/4) - 9|(1*4) &#43; 6|(5*2)=
+ &#43; 7 Shown Answers: -4|-14|6|-6|12|16 Correct Answers: -4|-8|6|-8|10|17 =
+Student Answers: true|false|true|false|false|false Student Was Correct: corr=
+ect|correct|correct|correct|correct|correct
+ Letters Shown: R|N|T|J|Q|H Students Letters: L|Y|R|N|J|H Time on Problem s=
+creen: 02.031|01.311|02.671|04.048|05.151|02.406 Time on Answer Screen: 00.9=
+84|01.184|01.272|01.216|01.273|01.161 Times on Recall screen: 02.783|01.047|=
+00.801|00.656|00.768|04.84|01.504|04.064|01.48|01.496|00.616|02.504|00.159|0=
+0.177|02.12|00.712|02.28|00.472|01.072|00.567
+ Session Letters Correct: 1 of 6 Session Math Percentage: 100% ************=
+****** Trial 6 ****************** Equations: (2*2) - 7|(1*2) - 6|(6/6) - 1|(=
+9/3) &#43; 3|(4*3) - 9|(2/2) - 1 Shown Answers: -3|-12|0|6|3|0 Correct Answe=
+rs: -3|-4|0|6|3|0 Student Answers:
+ true|false|true|true|true|true Student Was Correct: correct|correct|correc=
+t|correct|correct|correct Letters Shown: S|K|R|Q|T|F Students Letters: S|K|R=
+|Q|T|F Time on Problem screen: 02.664|02.12|02.224|02.255|03.303|01.927 Time=
+ on Answer Screen: 01.152|01.032|03.048|01.344|00.952|00.88
+ Times on Recall screen: 02.959|00.56|00.912|00.92|00.328|00.712 Session Le=
+tters Correct: 6 of 6 Session Math Percentage: 100% ****************** Trial=
+ 7 ****************** Equations: (6/1) &#43; 4|(2/2) - 6|(1*5) &#43; 6 Shown=
+ Answers: 13|-5|4 Correct Answers: 10|-5|11
+ Student Answers: false|true|false Student Was Correct: correct|correct|cor=
+rect Letters Shown: Q|N|T Students Letters: Q|N|T Time on Problem screen: 02=
+.495|02.079|01.662 Time on Answer Screen: 01.344|00.864|00.848 Times on Reca=
+ll screen: 02.238|00.52|01.952
+ Session Letters Correct: 3 of 3 Session Math Percentage: 100% ************=
+****** Trial 8 ****************** Equations: (4/4) &#43; 9|(2*4) &#43; 0|(1*=
+5) - 6|(9/9) &#43; 0|(2/1) &#43; 1|(2*6) &#43; 1|(1*6) - 8 Shown Answers: 2|=
+14|-1|9|3|13|2 Correct Answers: 10|8|-1|1|3|13|-2
+ Student Answers: false|false|true|false|true|true|false Student Was Correc=
+t: correct|correct|correct|correct|correct|correct|correct Letters Shown: Y|=
+L|K|S|P|N|T Students Letters: Y|L|K|S|N|T Time on Problem screen: 03.374|01.=
+935|03.063|01.83|02.231|01.655|02.879
+ Time on Answer Screen: 01.312|01.232|00.856|01.306|01.192|01.104|01.896 Ti=
+mes on Recall screen: 01.575|01.408|01.624|00.608|01.216|00.888 Session Lett=
+ers Correct: 4 of 7 Session Math Percentage: 100% ****************** Trial 9=
+ ****************** Equations:
+ (2*4) - 2|(9/3) &#43; 8|(8/2) &#43; 6|(4*3) - 5|(8/4) - 5 Shown Answers: 5=
+|11|7|0|-3 Correct Answers: 6|11|10|7|-3 Student Answers: false|true|false|f=
+alse|true Student Was Correct: correct|correct|correct|correct|correct Lette=
+rs Shown: Q|T|F|Y|H Students Letters:
+ Q|T|F|Y|H Time on Problem screen: 02.087|02.935|01.351|02.06|01.319 Time o=
+n Answer Screen: 00.872|00.92|01.239|01.472|01.511 Times on Recall screen: 0=
+1.983|00.84|00.656|01.28|01.152 Session Letters Correct: 5 of 5 Session Math=
+ Percentage: 100% ******************
+ Trial 10 ****************** Equations: (8/2) &#43; 1|(8/1) - 4|(1*2) - 5|(=
+3*4) - 8|(9/3) &#43; 6|(2*4) &#43; 8|(9/1) - 8 Shown Answers: 3|4|-3|4|9|16|=
+1 Correct Answers: 5|4|-3|4|9|16|1 Student Answers: false|true|true|true|tru=
+e|true|true Student Was Correct: correct|correct|correct|correct|correct|cor=
+rect|correct
+ Letters Shown: J|Q|R|F|K|S|Y Students Letters: J|Q|R|F|K|S|Y Time on Probl=
+em screen: 01.519|01.134|01.591|01.351|01.543|04.159|01.656 Time on Answer S=
+creen: 01.056|01.064|00.88|01.024|00.872|01.4|00.976 Times on Recall screen:=
+ 02.136|00.872|00.696|00.896|00.504|00.776|00.816
+ Session Letters Correct: 7 of 7 Session Math Percentage: 100% ************=
+****** Trial 11 ****************** Equations: (3/3) &#43; 9|(1*8) - 0|(4/4) =
+- 5|(2/1) - 1 Shown Answers: 2|5|-4|-7 Correct Answers: 10|8|-4|1 Student An=
+swers: false|false|true|false Student
+ Was Correct: correct|correct|correct|correct Letters Shown: N|H|R|J Studen=
+ts Letters: N|H|R|J Time on Problem screen: 02.519|01.054|01.367|01.094 Time=
+ on Answer Screen: 01.888|01.384|01.368|01.08 Times on Recall screen: 02.343=
+|00.712|01.04|00.784 Session Letters
+ Correct: 4 of 4 Session Math Percentage: 100% ****************** Trial 12 =
+****************** Equations: (2*2) &#43; 7|(8/1) - 1|(9/1) &#43; 5|(9/3) &#=
+43; 4|(8/2) - 7|(6/2) &#43; 5 Shown Answers: 14|3|18|15|2|4 Correct Answers:=
+ 11|7|14|7|-3|8 Student Answers: false|false|false|false|false|false
+ Student Was Correct: correct|correct|correct|correct|correct|correct Lette=
+rs Shown: S|K|Y|L|J|N Students Letters: S|K|Y|L|J|N Time on Problem screen: =
+01.694|01.144|00.015|02.039|02.904|04.047 Time on Answer Screen: 02.53|01.18=
+4|07.52|01.544|01.16|00.968 Times
+ on Recall screen: 01.944|00.583|01.025|00.936|02.096|00.528 Session Letter=
+s Correct: 6 of 6 Session Math Percentage: 100% ****************** Trial 13 =
+****************** Equations: (4/4) - 4|(1*6) &#43; 9|(8*2) - 5|(3/1) &#43; =
+5 Shown Answers: -9|12|11|9 Correct Answers:
+ -3|15|11|8 Student Answers: false|false|true|false Student Was Correct: co=
+rrect|correct|correct|correct Letters Shown: T|F|K|S Students Letters: T|F|L=
+|K|S Time on Problem screen: 03.063|01.416|01.624|01.862 Time on Answer Scre=
+en: 01.24|01.344|00.936|01.408
+ Times on Recall screen: 06.69|01.04|00.696|01.192|01.504 Session Letters C=
+orrect: 2 of 4 Session Math Percentage: 100% ****************** Trial 14 ***=
+*************** Equations: (9/9) &#43; 6|(5/5) - 4|(2*5) - 3|(1*9) &#43; 2 S=
+hown Answers: 1|-3|7|11 Correct Answers:
+ 7|-3|7|11 Student Answers: false|true|true|true Student Was Correct: corre=
+ct|correct|correct|correct Letters Shown: Q|R|T|F Students Letters: Q|R|T|F =
+Time on Problem screen: 01.958|01.575|01.047|01.535 Time on Answer Screen: 0=
+1.368|00.944|01.056|00.856 Times
+ on Recall screen: 01.519|00.704|00.688|00.712 Session Letters Correct: 4 o=
+f 4 Session Math Percentage: 100% ****************** Trial 15 **************=
+**** Equations: (7/7) - 1|(4/4) &#43; 2|(3*3) - 5|(6*2) &#43; 0|(9/3) &#43; =
+5|(4/1) - 2|(3/1) - 2 Shown Answers: 0|-3|8|12|0|9|8
+ Correct Answers: 0|3|4|12|8|2|1 Student Answers: true|false|false|true|fal=
+se|false|false Student Was Correct: correct|correct|correct|correct|correct|=
+correct|correct Letters Shown: L|K|F|S|Q|P|R Students Letters: L|K|F|S|Q|P|R=
+ Time on Problem screen: 02.919|02.071|01.39|01.231|01.374|02.27|04.287
+ Time on Answer Screen: 01.168|01.216|00.872|01.512|01.136|01.032|01.04 Tim=
+es on Recall screen: 01.455|00.682|01.224|01.112|00.856|01.424|00.832 Sessio=
+n Letters Correct: 7 of 7 Session Math Percentage: 100%
+</body>
+</html>
+
+
+--B_3640163824_1086886591--
+
