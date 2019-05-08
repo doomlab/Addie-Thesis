@@ -1,0 +1,83 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q44,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q28,Q29,Q30,Q31,Q32,Q33,Q34,Q35,Q36,Q37,Q38,Q39,Q40,Q_TotalDuration
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Enter the Raven's Participant Number here:,Which comes next?,Which comes next?,"​
+
+Which comes next?",Which comes next?,Which comes next?,Which comes next?,"​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+Which comes next?","​
+
+Which comes next?",Which comes next?,"​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?",Which comes next?,Which comes next?,Which comes next?,"​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?","​
+
+Which comes next?",Q_TotalDuration
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID44_TEXT""}","{""ImportId"":""QID1""}","{""ImportId"":""QID2""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID38""}","{""ImportId"":""QID29""}","{""ImportId"":""QID39""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""Q_TotalDuration""}"
+4/18/19 8:28,4/18/19 8:52,0,,100,1457,1,4/18/19 8:52,R_1oArSRrfLJOIYyi,,,,,,,anonymous,EN,P2,5,1,7,8,3,1,6,1,6,3,5,6,2,1,2,4,3,1,3,2,8,7,6,8,7,2,3,4,5,2,6,8,5,6,3,8,1457
+4/18/19 8:28,4/18/19 8:53,0,,100,1492,1,4/18/19 8:53,R_9BUwbMqqEmgLSIp,,,,,,,anonymous,EN,,5,1,7,4,3,1,2,1,8,4,5,6,5,1,8,4,6,7,3,2,8,7,5,3,7,8,3,5,7,5,4,3,3,1,1,1,1492
+4/18/19 10:45,4/18/19 11:10,0,,100,1508,1,4/18/19 11:10,R_1LeAps6MEYcGLnT,,,,,,,anonymous,EN,p4,4,1,7,4,3,1,6,1,8,4,5,6,2,1,1,5,3,1,3,2,8,8,3,7,7,6,4,4,,,,,,,,,1508
+4/23/19 13:18,4/23/19 13:38,0,,100,1207,1,4/23/19 13:38,R_26c2VpRruPu2fle,,,,,,,anonymous,EN,p6,5,1,7,1,3,1,6,3,7,4,5,6,5,4,4,4,3,7,3,3,4,8,8,8,8,3,1,7,1,2,5,7,8,3,1,1,1207
+4/23/19 13:23,4/23/19 13:48,0,,100,1528,1,4/23/19 13:48,R_10Uip5KM3PjpNey,,,,,,,anonymous,EN,p5,5,1,7,4,3,1,2,1,8,4,5,1,6,1,8,4,6,7,8,8,8,8,6,1,2,7,3,2,7,5,7,4,8,6,4,6,1528
+4/23/19 12:58,4/23/19 12:58,0,,5,18,0,4/23/19 16:58,R_UZ6LG7SQdX8U46Z,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18
+4/23/19 13:39,4/23/19 13:39,0,,5,15,0,4/23/19 17:39,R_2ASZ9gBsLZzQarH,,,,,,,anonymous,EN,p6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15
+4/23/19 13:38,4/23/19 13:39,8,,5,36,0,4/23/19 17:39,R_2XogE7D6DAr7rEt,,,,,,,anonymous,EN,p6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36
+4/25/19 8:35,4/25/19 8:45,0,,100,608,1,4/25/19 8:45,R_3dPWGC730vWetrz,,,,,,,anonymous,EN,P7,2,1,1,4,3,1,2,1,8,8,1,5,3,7,4,1,4,2,3,8,4,7,4,2,5,8,2,3,6,6,5,2,4,3,4,6,608
+4/26/19 10:50,4/26/19 11:08,0,,100,1068,1,4/26/19 11:08,R_1kTAr9YEPof2lU1,,,,,,,anonymous,EN,P8,5,1,8,4,3,1,2,1,8,7,5,6,1,1,2,5,6,1,8,3,8,4,2,1,8,5,6,4,5,4,2,4,7,3,4,8,1068
+4/26/19 10:50,4/26/19 11:12,0,,100,1350,1,4/26/19 11:12,R_puv9OKrX9bH1GvL,,,,,,,anonymous,EN,P9,5,1,7,2,3,1,6,1,1,3,1,5,6,1,8,5,2,6,5,8,4,8,6,1,5,8,4,6,4,5,3,8,1,4,1,6,1350
+4/26/19 13:01,4/26/19 13:23,0,,100,1368,1,4/26/19 13:23,R_7VCNCtdZt2OeqfD,,,,,,,anonymous,EN,P10,5,1,7,4,3,1,2,1,8,4,5,6,2,1,2,4,4,7,3,8,8,8,1,3,7,2,8,2,6,5,6,7,8,3,3,3,1368
+4/26/19 13:01,4/26/19 13:27,0,,100,1537,1,4/26/19 13:27,R_vCzBDjUUt8nhsEp,,,,,,,anonymous,EN,P11,5,1,7,4,3,1,2,3,8,4,5,6,8,1,2,4,6,7,3,2,1,7,5,3,4,8,4,2,1,4,3,8,3,3,,,1537
+4/26/19 13:00,4/26/19 13:01,0,,5,47,0,4/26/19 17:01,R_aboIS2wPXdpU0ZH,,,,,,,anonymous,EN,P10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47
+4/30/19 13:15,4/30/19 13:20,0,,100,302,1,4/30/19 13:20,R_1OZVDwyyvaHEiaQ,,,,,,,anonymous,EN,p12,5,4,7,8,5,7,3,3,8,7,6,7,7,6,3,4,4,6,1,2,1,5,4,6,3,4,4,6,3,7,2,5,1,6,3,5,302
+5/2/19 9:02,5/2/19 9:13,0,,100,626,1,5/2/19 9:13,R_2aV1IjSTmyYpoNQ,,,,,,,anonymous,EN,p13,5,2,7,5,3,7,7,3,4,2,5,8,6,3,2,7,6,2,8,4,5,1,5,1,2,4,2,5,3,4,7,1,4,6,4,1,626
+5/2/19 13:20,5/2/19 13:38,0,,100,1066,1,5/2/19 13:38,R_2Soz8LP0zWb3L5V,,,,,,,anonymous,EN,P14,1,1,7,8,3,1,2,1,8,4,5,6,5,6,6,6,6,6,6,2,1,7,5,1,7,2,5,4,7,5,7,1,4,3,4,3,1066
+5/2/19 13:18,5/2/19 13:40,0,,100,1317,1,5/2/19 13:40,R_2YPMUDa3jdDuAsS,,,,,,,anonymous,EN,P15,5,1,7,4,3,1,6,1,8,4,5,6,2,1,2,5,6,7,3,8,8,7,6,3,7,2,4,2,8,6,8,4,5,5,1,5,1317
+5/3/19 10:52,5/3/19 11:12,0,,100,1206,1,5/3/19 11:12,R_31a9Y2h8XLBx3fH,,,,,,,anonymous,EN,P17,5,1,7,4,3,1,6,1,3,4,5,6,8,7,8,4,8,1,5,8,4,2,6,8,8,8,3,8,7,7,3,2,4,1,1,8,1206
+5/3/19 11:10,5/3/19 11:17,0,,100,427,1,5/3/19 11:17,R_2yqlYgQPzz25lRV,,,,,,,anonymous,EN,P16,5,1,7,5,1,2,4,4,1,2,2,7,7,4,7,1,8,3,3,1,4,1,7,8,8,8,7,3,8,8,5,3,2,3,4,1,427
+5/3/19 12:59,5/3/19 13:19,0,,100,1233,1,5/3/19 13:19,R_pEoveEmf8EOuyhb,,,,,,,anonymous,EN,p18,1,1,7,4,3,1,6,1,8,4,5,6,6,1,2,4,6,7,8,8,4,7,5,1,1,6,7,2,6,8,2,8,4,3,1,1,1233
+5/3/19 12:59,5/3/19 13:20,0,,100,1279,1,5/3/19 13:20,R_1FS87jnDgV7VS3c,,,,,,,anonymous,EN,P19,1,1,7,5,3,1,6,2,8,4,5,6,3,1,8,4,6,7,3,4,4,8,6,8,2,8,4,2,5,1,7,7,2,6,1,8,1279
+5/7/19 13:25,5/7/19 13:37,0,,100,727,1,5/7/19 13:37,R_YSVcVchhtizQVPj,,,,,,,anonymous,EN,P22,1,2,7,1,7,1,2,1,8,5,3,5,4,3,4,5,6,8,8,8,5,8,2,2,1,8,6,2,5,8,7,1,8,6,1,8,727
+5/7/19 13:25,5/7/19 13:44,0,,100,1149,1,5/7/19 13:44,R_ONZl2YMJ5C6qDSx,,,,,,,anonymous,EN,P23,5,1,7,4,3,1,6,8,8,4,5,6,2,1,2,4,6,7,5,8,8,7,6,7,7,6,4,8,4,4,7,4,5,1,3,1,1149
+5/7/19 13:27,5/7/19 13:47,0,,100,1192,1,5/7/19 13:47,R_1Ebtk81H48Wjpk3,,,,,,,anonymous,EN,P21,5,1,7,4,3,1,2,1,8,4,5,6,5,6,2,1,6,7,7,2,4,7,5,5,7,2,6,3,3,5,5,8,3,5,6,8,1192
+5/7/19 13:25,5/7/19 13:51,0,,100,1535,1,5/7/19 13:51,R_2ysjGuAPgWm9D7p,,,,,,,anonymous,EN,P24,5,1,8,4,3,1,2,1,8,4,7,6,2,1,2,4,6,7,3,8,8,7,3,1,7,2,,,,,,,,,,,1535
+5/7/19 13:25,5/7/19 13:52,0,,100,1580,1,5/7/19 13:52,R_3fZuxkHnlaMFx1f,,,,,,,anonymous,EN,P20,5,1,7,7,3,1,6,1,8,4,5,6,2,1,2,4,6,7,3,8,8,8,1,3,4,2,4,,,,,,,,,,1580
+5/7/19 13:25,5/7/19 13:29,0,,7,201,0,5/7/19 17:29,R_3L7lwwhSXNqc0w6,,,,,,,anonymous,EN,p0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201
