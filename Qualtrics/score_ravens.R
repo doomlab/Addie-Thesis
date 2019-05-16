@@ -1,8 +1,9 @@
 
 ##set working directory to where file is saved
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+#setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+setwd("~/Documents/GitHub/Addie-Thesis/Qualtrics/All Data from Qualtrics Before 5:15")
 
-master <- read.csv("ravens_edit.csv", stringsAsFactors = F)
+master <- read.csv("Ravens_May15_edited.csv", stringsAsFactors = F)
 
 ##function
 scorer <- function(column, answer) {
