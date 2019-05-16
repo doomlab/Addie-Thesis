@@ -101,50 +101,50 @@ Please select this link when instructed to do so: click here.
 
 Below, please enter the adjusted typing score.",Please enter the error score from the typing test.
 "{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID16_TEXT""}","{""ImportId"":""QID5_TEXT""}"
-2019-04-18 08:27:43,2019-04-18 08:54:53,IP Address,146.7.80.197,100,1630,True,2019-04-18 08:54:54,R_3m4uzxbf9ZOiZyh,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",,,,20
-2019-04-18 08:28:28,2019-04-18 08:55:51,IP Address,146.7.80.199,100,1642,True,2019-04-18 08:55:51,R_1mIOWyTZYhqSuwL,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",,,,1
-2019-04-18 10:24:42,2019-04-18 11:13:29,IP Address,146.7.80.208,100,2926,True,2019-04-18 11:13:29,R_1FKurvEJsEmMoIB,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p4,p4,21,0
-2019-04-18 08:55:11,2019-04-18 09:14:09,IP Address,146.7.80.197,40,1137,False,2019-04-25 09:14:16,R_PCD2oQ8mL1g0FS9,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,P2,,
-2019-04-26 10:49:52,2019-04-26 11:12:04,IP Address,146.7.81.163,100,1331,True,2019-04-26 11:12:04,R_2f6Xa98q6cPmpT5,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P8,P8,41 WPN,4
-2019-04-26 10:49:35,2019-04-26 11:15:35,IP Address,146.7.81.197,100,1560,True,2019-04-26 11:15:36,R_33DyU1VkERtL3gr,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P9,P9,32,1
-2019-04-30 13:04:16,2019-04-30 13:23:03,IP Address,146.7.81.83,100,1127,True,2019-04-30 13:23:03,R_plwAcwIBjND33Vf,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p12,p-12,18,19
-2019-04-25 08:31:45,2019-04-25 08:58:58,IP Address,146.7.80.210,80,1633,False,2019-05-02 08:59:34,R_3DoxZSGYjQrtDIg,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,P7,59,3
-2019-05-02 12:58:10,2019-05-02 13:38:33,IP Address,146.7.80.84,100,2423,True,2019-05-02 13:38:34,R_1OpqITnSoVrbxIO,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p14,P14,54,0
-2019-05-02 12:58:10,2019-05-02 13:40:44,IP Address,146.7.81.83,100,2553,True,2019-05-02 13:40:44,R_25EH2chrbHxoxrd,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P15,P15,49,5
-2019-05-03 10:52:34,2019-05-03 11:08:39,IP Address,146.7.81.163,100,964,True,2019-05-03 11:08:39,R_DxdIyoY4yiNOC09,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P16,P16,39,3
-2019-05-03 10:52:30,2019-05-03 11:31:31,IP Address,146.7.81.103,100,2341,True,2019-05-03 11:31:32,R_2awPLCzGDU9O5RK,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P17,P17,63,63
-2019-05-07 13:03:39,2019-05-07 13:55:30,IP Address,146.7.80.26,100,3111,True,2019-05-07 13:55:31,R_2CBzSQi0P42RnfX,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P24,P24,85,3
-2019-05-07 13:03:36,2019-05-07 13:55:30,IP Address,146.7.81.132,100,3114,True,2019-05-07 13:55:31,R_3JFql6UlnKNoOOb,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P20,P20,69,1
-2019-05-07 13:03:27,2019-05-07 13:55:32,IP Address,146.7.81.83,100,3124,True,2019-05-07 13:55:33,R_2TFxiZmE1Vtcozr,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P23,P23,26,1
-2019-05-07 13:04:10,2019-05-07 13:55:33,IP Address,146.7.81.61,100,3083,True,2019-05-07 13:55:34,R_1d4ZWTRgptKi3Sq,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P21,P21,37,1
-2019-05-10 09:53:38,2019-05-10 10:05:56,IP Address,146.7.80.114,100,738,True,2019-05-10 10:05:56,R_2wufJKAQK5Mkwsm,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,,,,,
-2019-05-10 10:01:56,2019-05-10 10:08:16,IP Address,146.7.80.247,100,380,True,2019-05-10 10:08:16,R_1Nt8MROcSLIldCz,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p27,p27,52,0
-2019-05-10 10:04:42,2019-05-10 10:47:04,IP Address,146.7.80.210,100,2542,True,2019-05-10 10:47:04,R_3QS1iksyUG15jiZ,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p29,p29,35,2
-2019-05-10 10:01:20,2019-05-10 10:47:35,IP Address,146.7.80.192,100,2775,True,2019-05-10 10:47:36,R_3nvC0WmqOxn9Fvy,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P26,P26,47,5
-2019-05-10 10:02:57,2019-05-10 10:53:09,IP Address,146.7.81.22,100,3011,True,2019-05-10 10:53:09,R_3eb0pmstXGP9IYa,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p28,p28,46,1
-2019-05-10 10:08:27,2019-05-10 10:55:26,IP Address,146.7.80.247,100,2818,True,2019-05-10 10:55:26,R_26lQ9OeUZmhEsi6,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p27,p27,51,1
-2019-05-07 12:47:36,2019-05-14 11:34:42,IP Address,146.7.4.75,100,600426,True,2019-05-14 11:34:42,R_RrdDlboPkpsN573,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,,,,,
-2019-05-14 11:27:32,2019-05-14 11:43:42,IP Address,146.7.80.114,100,970,True,2019-05-14 11:43:43,R_2dSIHqqLQZbSqwX,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,,p1,p1,,
-2019-05-14 11:44:36,2019-05-14 11:45:42,IP Address,146.7.4.75,100,66,True,2019-05-14 11:45:42,R_3fvqfKdAOzzTOac,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p48,p 48,,
-2019-05-14 11:34:46,2019-05-14 11:48:39,Spam,146.7.4.75,100,832,True,2019-05-14 11:48:39,R_07EIaQeCP3WNydX,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,,,,,
-2019-05-14 11:44:12,2019-05-14 11:52:45,IP Address,146.7.80.125,100,512,True,2019-05-14 11:52:45,R_3phel7PzszD3Z60,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p39,p39,60,0
-2019-05-14 11:44:10,2019-05-14 11:53:39,IP Address,146.7.81.45,100,568,True,2019-05-14 11:53:39,R_1IAXQC8daLzK5yr,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P45,P45,49,0
-2019-05-14 11:44:24,2019-05-14 11:58:07,IP Address,146.7.4.74,100,823,True,2019-05-14 11:58:08,R_tVxeicz4yettiPn,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p36,36,45,9
-2019-05-14 11:44:08,2019-05-14 12:01:46,IP Address,146.7.81.53,100,1058,True,2019-05-14 12:01:47,R_2EpdImxlhU5CZP5,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p46,p46,33,8
-2019-05-14 11:44:12,2019-05-14 12:02:34,IP Address,146.7.80.41,100,1101,True,2019-05-14 12:02:34,R_aWui2rdIkJL7Ra9,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p38,p38,43,8
-2019-05-14 11:46:48,2019-05-14 12:05:00,IP Address,146.7.80.186,100,1091,True,2019-05-14 12:05:00,R_2fCMbcinRBMOTzb,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p44,p44,43,4
-2019-05-14 11:44:14,2019-05-14 12:05:55,IP Address,146.7.4.71,100,1300,True,2019-05-14 12:05:55,R_22PMcfradKaUWRc,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p41,p41,33,0
-2019-05-14 11:58:42,2019-05-14 12:09:57,IP Address,146.7.4.74,100,675,True,2019-05-14 12:09:58,R_2tm6hbkz9IqaBTw,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",,,45,9
-2019-05-14 11:44:08,2019-05-14 12:10:08,IP Address,146.7.81.22,100,1559,True,2019-05-14 12:10:08,R_1LeDweFPWwqwL3t,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p33,p33,45 wpm,7
-2019-05-14 11:44:16,2019-05-14 12:10:48,IP Address,146.7.80.247,100,1592,True,2019-05-14 12:10:49,R_XvVSXicPMWjdsZz,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P47,P47,50,1
-2019-05-14 11:44:08,2019-05-14 12:12:21,IP Address,146.7.80.192,100,1693,True,2019-05-14 12:12:22,R_72JQPIzkrIeTLpL,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p35,p35,58,5
-2019-05-14 11:46:13,2019-05-14 12:15:31,IP Address,146.7.80.19,100,1757,True,2019-05-14 12:15:32,R_VX3vaxF02EnyRUt,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",,p37,74,1
-2019-05-14 11:45:46,2019-05-14 12:15:59,IP Address,146.7.4.75,100,1813,True,2019-05-14 12:15:59,R_1YcTjHB40jDm9R7,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p48,p48,48,3
-2019-05-14 11:44:15,2019-05-14 12:16:56,IP Address,146.7.4.73,100,1961,True,2019-05-14 12:16:56,R_2feQiS7i0AMUXZj,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p32,p32,54,9
-2019-05-14 11:44:10,2019-05-14 12:17:13,IP Address,146.7.81.123,100,1983,True,2019-05-14 12:17:14,R_2vZhIz39pGA0gqN,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p43,P43,40,45
-2019-05-14 11:44:24,2019-05-14 12:17:35,IP Address,146.7.81.122,100,1990,True,2019-05-14 12:17:35,R_1FIDS6422BEpq5d,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P34,P34,42,5
-2019-05-14 11:44:18,2019-05-14 12:17:35,IP Address,146.7.4.72,100,1996,True,2019-05-14 12:17:35,R_3NEB4oczRc7M4wP,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p40,p40,55,22
-2019-05-14 11:44:11,2019-05-14 12:21:29,IP Address,146.7.4.75,100,2237,True,2019-05-14 12:21:29,R_9Buov0FRdBsXiW5,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",P31,P31,41,4
-2019-05-14 11:45:08,2019-05-14 12:26:23,IP Address,146.7.81.47,100,2475,True,2019-05-14 12:26:24,R_6A8bgdXGeBafAEp,,,,,37.198699951171875,-93.2783966064453125,anonymous,EN,"Yes, I consent to participate in this study.",p42,p42,52,49
-2019-05-07 13:05:37,2019-05-07 13:56:05,IP Address,146.7.81.157,60,3028,False,2019-05-14 13:56:08,R_1FLC4dx7EfkfhBS,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,,,
-2019-05-14 18:34:20,2019-05-14 19:00:06,IP Address,173.218.28.185,100,1545,True,2019-05-14 19:00:06,R_2V2VD9tkRPvfStS,,,,,36.669403076171875,-93.244903564453125,anonymous,EN,"Yes, I consent to participate in this study.",P49,P49,58,4
+4/18/19 8:27,4/18/19 8:54,IP Address,,100,1630,TRUE,4/18/19 8:54,R_3m4uzxbf9ZOiZyh,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,,,20
+4/18/19 8:28,4/18/19 8:55,IP Address,,100,1642,TRUE,4/18/19 8:55,R_1mIOWyTZYhqSuwL,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,,,1
+4/18/19 10:24,4/18/19 11:13,IP Address,,100,2926,TRUE,4/18/19 11:13,R_1FKurvEJsEmMoIB,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p4,p4,21,0
+4/18/19 8:55,4/18/19 9:14,IP Address,,40,1137,FALSE,4/25/19 9:14,R_PCD2oQ8mL1g0FS9,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,P2,,
+4/26/19 10:49,4/26/19 11:12,IP Address,,100,1331,TRUE,4/26/19 11:12,R_2f6Xa98q6cPmpT5,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P8,P8,41 WPN,4
+4/26/19 10:49,4/26/19 11:15,IP Address,,100,1560,TRUE,4/26/19 11:15,R_33DyU1VkERtL3gr,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P9,P9,32,1
+4/30/19 13:04,4/30/19 13:23,IP Address,,100,1127,TRUE,4/30/19 13:23,R_plwAcwIBjND33Vf,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p12,p-12,18,19
+4/25/19 8:31,4/25/19 8:58,IP Address,,80,1633,FALSE,5/2/19 8:59,R_3DoxZSGYjQrtDIg,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,P7,59,3
+5/2/19 12:58,5/2/19 13:38,IP Address,,100,2423,TRUE,5/2/19 13:38,R_1OpqITnSoVrbxIO,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p14,P14,54,0
+5/2/19 12:58,5/2/19 13:40,IP Address,,100,2553,TRUE,5/2/19 13:40,R_25EH2chrbHxoxrd,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P15,P15,49,5
+5/3/19 10:52,5/3/19 11:08,IP Address,,100,964,TRUE,5/3/19 11:08,R_DxdIyoY4yiNOC09,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P16,P16,39,3
+5/3/19 10:52,5/3/19 11:31,IP Address,,100,2341,TRUE,5/3/19 11:31,R_2awPLCzGDU9O5RK,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P17,P17,63,63
+5/7/19 13:03,5/7/19 13:55,IP Address,,100,3111,TRUE,5/7/19 13:55,R_2CBzSQi0P42RnfX,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P24,P24,85,3
+5/7/19 13:03,5/7/19 13:55,IP Address,,100,3114,TRUE,5/7/19 13:55,R_3JFql6UlnKNoOOb,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P20,P20,69,1
+5/7/19 13:03,5/7/19 13:55,IP Address,,100,3124,TRUE,5/7/19 13:55,R_2TFxiZmE1Vtcozr,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P23,P23,26,1
+5/7/19 13:04,5/7/19 13:55,IP Address,,100,3083,TRUE,5/7/19 13:55,R_1d4ZWTRgptKi3Sq,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P21,P21,37,1
+5/10/19 9:53,5/10/19 10:05,IP Address,,100,738,TRUE,5/10/19 10:05,R_2wufJKAQK5Mkwsm,,,,,,,anonymous,EN,,,,,
+5/10/19 10:01,5/10/19 10:08,IP Address,,100,380,TRUE,5/10/19 10:08,R_1Nt8MROcSLIldCz,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p27,p27,52,0
+5/10/19 10:04,5/10/19 10:47,IP Address,,100,2542,TRUE,5/10/19 10:47,R_3QS1iksyUG15jiZ,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p29,p29,35,2
+5/10/19 10:01,5/10/19 10:47,IP Address,,100,2775,TRUE,5/10/19 10:47,R_3nvC0WmqOxn9Fvy,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P26,P26,47,5
+5/10/19 10:02,5/10/19 10:53,IP Address,,100,3011,TRUE,5/10/19 10:53,R_3eb0pmstXGP9IYa,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p28,p28,46,1
+5/10/19 10:08,5/10/19 10:55,IP Address,,100,2818,TRUE,5/10/19 10:55,R_26lQ9OeUZmhEsi6,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p27,p27,51,1
+5/7/19 12:47,5/14/19 11:34,IP Address,,100,600426,TRUE,5/14/19 11:34,R_RrdDlboPkpsN573,,,,,,,anonymous,EN,,,,,
+5/14/19 11:27,5/14/19 11:43,IP Address,,100,970,TRUE,5/14/19 11:43,R_2dSIHqqLQZbSqwX,,,,,,,anonymous,EN,,p1,p1,,
+5/14/19 11:44,5/14/19 11:45,IP Address,,100,66,TRUE,5/14/19 11:45,R_3fvqfKdAOzzTOac,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p48,p 48,,
+5/14/19 11:34,5/14/19 11:48,Spam,,100,832,TRUE,5/14/19 11:48,R_07EIaQeCP3WNydX,,,,,,,anonymous,EN,,,,,
+5/14/19 11:44,5/14/19 11:52,IP Address,,100,512,TRUE,5/14/19 11:52,R_3phel7PzszD3Z60,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p39,p39,60,0
+5/14/19 11:44,5/14/19 11:53,IP Address,,100,568,TRUE,5/14/19 11:53,R_1IAXQC8daLzK5yr,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P45,P45,49,0
+5/14/19 11:44,5/14/19 11:58,IP Address,,100,823,TRUE,5/14/19 11:58,R_tVxeicz4yettiPn,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p36,36,45,9
+5/14/19 11:44,5/14/19 12:01,IP Address,,100,1058,TRUE,5/14/19 12:01,R_2EpdImxlhU5CZP5,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p46,p46,33,8
+5/14/19 11:44,5/14/19 12:02,IP Address,,100,1101,TRUE,5/14/19 12:02,R_aWui2rdIkJL7Ra9,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p38,p38,43,8
+5/14/19 11:46,5/14/19 12:05,IP Address,,100,1091,TRUE,5/14/19 12:05,R_2fCMbcinRBMOTzb,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p44,p44,43,4
+5/14/19 11:44,5/14/19 12:05,IP Address,,100,1300,TRUE,5/14/19 12:05,R_22PMcfradKaUWRc,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p41,p41,33,0
+5/14/19 11:58,5/14/19 12:09,IP Address,,100,675,TRUE,5/14/19 12:09,R_2tm6hbkz9IqaBTw,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,,45,9
+5/14/19 11:44,5/14/19 12:10,IP Address,,100,1559,TRUE,5/14/19 12:10,R_1LeDweFPWwqwL3t,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p33,p33,45 wpm,7
+5/14/19 11:44,5/14/19 12:10,IP Address,,100,1592,TRUE,5/14/19 12:10,R_XvVSXicPMWjdsZz,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P47,P47,50,1
+5/14/19 11:44,5/14/19 12:12,IP Address,,100,1693,TRUE,5/14/19 12:12,R_72JQPIzkrIeTLpL,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p35,p35,58,5
+5/14/19 11:46,5/14/19 12:15,IP Address,,100,1757,TRUE,5/14/19 12:15,R_VX3vaxF02EnyRUt,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,p37,74,1
+5/14/19 11:45,5/14/19 12:15,IP Address,,100,1813,TRUE,5/14/19 12:15,R_1YcTjHB40jDm9R7,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p48,p48,48,3
+5/14/19 11:44,5/14/19 12:16,IP Address,,100,1961,TRUE,5/14/19 12:16,R_2feQiS7i0AMUXZj,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p32,p32,54,9
+5/14/19 11:44,5/14/19 12:17,IP Address,,100,1983,TRUE,5/14/19 12:17,R_2vZhIz39pGA0gqN,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p43,P43,40,45
+5/14/19 11:44,5/14/19 12:17,IP Address,,100,1990,TRUE,5/14/19 12:17,R_1FIDS6422BEpq5d,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P34,P34,42,5
+5/14/19 11:44,5/14/19 12:17,IP Address,,100,1996,TRUE,5/14/19 12:17,R_3NEB4oczRc7M4wP,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p40,p40,55,22
+5/14/19 11:44,5/14/19 12:21,IP Address,,100,2237,TRUE,5/14/19 12:21,R_9Buov0FRdBsXiW5,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P31,P31,41,4
+5/14/19 11:45,5/14/19 12:26,IP Address,,100,2475,TRUE,5/14/19 12:26,R_6A8bgdXGeBafAEp,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",p42,p42,52,49
+5/7/19 13:05,5/7/19 13:56,IP Address,,60,3028,FALSE,5/14/19 13:56,R_1FLC4dx7EfkfhBS,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",,,,
+5/14/19 18:34,5/14/19 19:00,IP Address,,100,1545,TRUE,5/14/19 19:00,R_2V2VD9tkRPvfStS,,,,,,,anonymous,EN,"Yes, I consent to participate in this study.",P49,P49,58,4
