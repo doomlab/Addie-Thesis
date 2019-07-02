@@ -33,5 +33,5 @@ master$total = (scorer("Q5", 5) + scorer("Q6", 1) + scorer("Q7", 7) + scorer("Q8
 
 ##print out the useful part
 
-write.csv(master[ , c("Q44", "total", "StartDate", "EndDate") ], "ravens_scores.csv", row.names = F)
+write.csv(master[ , c("Q44", "total", "StartDate", "EndDate", "Q_TotalDuration") ], "ravens_scores.csv", row.names = F)
 View(master)
