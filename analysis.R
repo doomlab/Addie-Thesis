@@ -4,7 +4,7 @@ library(papaja) #devtools::install_github("crsh/papaja")
 ##set working directory to where file is saved
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
-master = read.csv("MasterDataset_2.csv", stringsAsFactors = F)
+master = read.csv("MasterDataset.csv", stringsAsFactors = F)
 options(scipen = 999)
 
 ##summary
@@ -103,7 +103,7 @@ pcor(na.omit(master[ , c("Letter.Recall", "Math.Acc", "Ravens.Score", "TTScore")
 # summary.lm.beta(model6)
 
 
-# without bad people ------------------------------------------------------
+# without poor participants ------------------------------------------------------
 
 ##cor.test
 
